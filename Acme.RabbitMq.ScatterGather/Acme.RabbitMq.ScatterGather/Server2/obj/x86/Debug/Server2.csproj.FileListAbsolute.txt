@@ -1,0 +1,9 @@
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\bin\Debug\Server2.exe
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\bin\Debug\Server2.pdb
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\obj\x86\Debug\Server2.exe
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\obj\x86\Debug\Server2.pdb
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\bin\Debug\Shared.dll
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\bin\Debug\Shared.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\Acme.RabbitMq.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\obj\x86\Debug\Server2.exe
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\Acme.RabbitMq.ScatterGather\Acme.RabbitMq.ScatterGather\Server2\obj\x86\Debug\Server2.pdb

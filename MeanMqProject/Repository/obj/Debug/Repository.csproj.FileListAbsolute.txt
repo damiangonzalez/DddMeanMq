@@ -1,0 +1,11 @@
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\Repository.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\Repository.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\Domain.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\MongoDB.Bson.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\MongoDB.Driver.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\Domain.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\MongoDB.Bson.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\bin\Debug\MongoDB.Driver.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\obj\Debug\Repository.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\obj\Debug\Repository.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache

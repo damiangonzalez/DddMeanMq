@@ -1,0 +1,8 @@
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\damiango\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

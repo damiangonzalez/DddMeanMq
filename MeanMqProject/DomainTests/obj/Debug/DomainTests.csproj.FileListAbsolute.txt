@@ -1,0 +1,9 @@
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\obj\Debug\DomainTests.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\RabbitMQPubSubNode.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\RabbitMQ.Client.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\RabbitMQPubSubNode.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\bin\Debug\RabbitMQ.Client.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache

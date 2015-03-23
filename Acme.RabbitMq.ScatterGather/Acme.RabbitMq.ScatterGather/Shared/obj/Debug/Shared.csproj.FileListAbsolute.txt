@@ -1,0 +1,5 @@
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Shared\bin\Debug\Shared.dll
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Shared\bin\Debug\Shared.pdb
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Shared\obj\Debug\ResolveAssemblyReference.cache
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Shared\obj\Debug\Shared.dll
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\Shared\obj\Debug\Shared.pdb

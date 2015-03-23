@@ -1,0 +1,7 @@
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\bin\Debug\EmitModule.exe.config
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\bin\Debug\EmitModule.exe
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\bin\Debug\EmitModule.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\bin\Debug\RabbitMQ.Client.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\bin\Debug\RabbitMQ.Client.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\obj\Debug\EmitModule.exe
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\TestEmitReceive\EmitModule\obj\Debug\EmitModule.pdb

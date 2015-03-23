@@ -1,0 +1,13 @@
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\bin\Debug\ClientUI.exe
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\bin\Debug\ClientUI.pdb
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\bin\Debug\Shared.dll
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\bin\Debug\Shared.pdb
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.Form1.resources
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.Properties.Resources.resources
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.exe
+C:\Blog\RabbitMQ.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\Acme.RabbitMq.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.exe
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\Acme.RabbitMq.ScatterGather\Acme.RabbitMq.ScatterGather\ClientUI\obj\x86\Debug\ClientUI.pdb

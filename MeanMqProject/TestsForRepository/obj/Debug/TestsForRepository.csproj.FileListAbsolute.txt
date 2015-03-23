@@ -1,0 +1,13 @@
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\TestsForRepository.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\TestsForRepository.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\Domain.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\MongoDB.Bson.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\MongoDB.Driver.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\Repository.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\Domain.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\Repository.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\MongoDB.Bson.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\bin\Debug\MongoDB.Driver.xml
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\obj\Debug\TestsForRepository.dll
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\obj\Debug\TestsForRepository.pdb
+C:\Users\DamianGo\Documents\Visual Studio 2013\Projects\MeanMqProject\TestsForRepository\obj\Debug\TestsForRepository.csprojResolveAssemblyReference.cache
