@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DomainEventHandler.cs" />
+    <Compile Include="RabbitMQPubNode.cs" />
     <Compile Include="RabbitMQPubSubNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

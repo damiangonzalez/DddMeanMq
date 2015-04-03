@@ -12,7 +12,7 @@ namespace ClientFacingWebApi.Controllers
 
         public ValuesController()
         {
-            _svc = new InventoryService(true);
+            _svc = new InventoryService();
         }
 
         // GET api/values

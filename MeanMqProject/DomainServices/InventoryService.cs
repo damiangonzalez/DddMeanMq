@@ -10,30 +10,16 @@ namespace DomainServices
     public class InventoryService
     {
         private readonly InventoryRepository _inventoryRepository;
-        private readonly RabbitMqPubSubNode _rabbitMqPubSubNode;
-        public InventoryService(bool pubOnly = false)
+        private readonly RabbitMqPubNode _rabbitMqPubSubNode;
+        public InventoryService()
         {
             _inventoryRepository = new InventoryRepository();
-            _rabbitMqPubSubNode = new RabbitMqPubSubNode(
-                    "InventoryService",
-                    (x) => Console.WriteLine("received: " + x.ToString()),
-                    pubOnly);
+            _rabbitMqPubSubNode = new RabbitMqPubNode("InventoryService");
         }
 
         public StorageFacility GetStorageFacility(string facilityId)
         {
             return _inventoryRepository.GetStorageFacility(facilityId);
-        }
-
-        public void HandlePostBak(InventoryDomainEventCheckoutItems domainEventDataFromPost)
-        {
-            if (domainEventDataFromPost.FacilityId == null ||
-               domainEventDataFromPost.ItemIdsToBeRemovedList == null)
-            {
-                return;
-            }
-
-            _rabbitMqPubSubNode.Publish(JsonConvert.SerializeObject(domainEventDataFromPost));
         }
 
         public void HandlePost(DomainEventBase domainEventDataFromPost)
