@@ -10,6 +10,8 @@ namespace RabbitMQPubSubNode
     {
         InventoryRepository _inventoryRepository = new InventoryRepository();
 
+        // Contains business logic to identify event type and target domain
+        // Will respond to events that are of the expected type targeting the current node type
         public string HandleDomainEvent(string nodeType, string jsonMessage)
         {
             DomainEventBase resolvedDomainEvent = ResolveDomainEvent(jsonMessage);

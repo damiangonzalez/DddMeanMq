@@ -24,8 +24,9 @@ namespace DomainServices
 
         public void HandlePost(DomainEventBase domainEventDataFromPost)
         {
-            if (domainEventDataFromPost.SourceDomain == null ||
-               domainEventDataFromPost.TargetDomain == null ||
+            if (domainEventDataFromPost == null ||
+                domainEventDataFromPost.SourceDomain == null ||
+                domainEventDataFromPost.TargetDomain == null ||
                 domainEventDataFromPost.EventType == DomainEventType.IndeterminateType)
             {
                 return;

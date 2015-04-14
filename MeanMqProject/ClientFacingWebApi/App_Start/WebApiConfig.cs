@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Headers;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace ClientFacingWebApi
 {
@@ -10,7 +11,12 @@ namespace ClientFacingWebApi
     {
         public static void Register(HttpConfiguration config)
         {
-            config.EnableCors();
+            var enableCorsAttribute = new EnableCorsAttribute("http://damiango7xt1700:3000",
+                                                    "Origin, Content-Type, Accept",
+                                                    "GET, PUT, POST, DELETE, OPTIONS");
+            enableCorsAttribute = new EnableCorsAttribute("*", "*", "*");
+            config.EnableCors(enableCorsAttribute);
+
             // Web API configuration and services
             config.Formatters.JsonFormatter.SupportedMediaTypes
                 .Add(new MediaTypeHeaderValue("text/html"));

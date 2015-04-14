@@ -1,11 +1,13 @@
-﻿using Domain.InventoryDomain;
+﻿using System.Net;
+using System.Net.Http;
+using Domain.InventoryDomain;
 using DomainServices;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
 namespace ClientFacingWebApi.Controllers
 {
-    [EnableCors(origins: "*", headers: "*", methods: "*")]
+    [EnableCors(origins: "*", headers: "*", methods: "GET, PUT, POST, DELETE, OPTIONS")]
     public class ValuesController : ApiController
     {
         InventoryService _svc;

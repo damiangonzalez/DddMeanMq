@@ -11,6 +11,15 @@ namespace ClientFacingWebApi
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
+        protected void Application_BeginRequest(object sender, EventArgs e)
+        {
+            if (HttpContext.Current.Request.HttpMethod == "OPTIONS")
+            {
+                //These headers are handling the "pre-flight" OPTIONS call sent by the browser
+                // HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");
+            }
+        }
+
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
